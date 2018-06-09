@@ -1,0 +1,28 @@
+body {
+    background: url(../images/crystalbackground.jpg);
+}
+
+.header {
+    margin: 20px 0;
+}
+
+#instructions {
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    margin-top: 20px;
+}
+ 
+img {
+    padding: 0 10px;
+}
+
+#winnerLoser {
+    margin-top: 30px;
+    font-size: 30px;
+}
